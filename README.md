@@ -1,2 +1,2 @@
-# LDSH-latch-research-data
-Research data supporting the LDSH scan-test-aware SEU-resilient latch design.
+
+The data will be updated after sorting.
